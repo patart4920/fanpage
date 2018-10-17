@@ -29,11 +29,11 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 2
 #### CSS
-- [ ] Use flexbox to center your heading. 
-- [ ] Use flexbox to format your navbar.
-- [ ] Use flexbox to format your footer.
-- [ ] Use flexbox to format your gallery page. 
-- [ ] Use flexbox to format your about page. 
+- [ x] Use flexbox to center your heading. 
+- [ x] Use flexbox to format your navbar.
+- [ x] Use flexbox to format your footer.
+- [ x] Use flexbox to format your gallery page. 
+- [ x] Use flexbox to format your about page. 
 
 #### Wrap
 - [ ] Push your changes!

@@ -17,3 +17,33 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header{
+  display: flex;
+  justify-content:center;
+    
+}
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    
+    
+}
+
+.footer{
+    
+    display: flex;
+    justify-content:space-around;
+    
+}
+    
+    #treyforever{
+    width: 540px;
+    
+}
+.gallery{
+    display:flex;
+    justify-content:center;
+    
+    
+}
+
